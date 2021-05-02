@@ -1,1 +1,1 @@
-git command many
+git command has many
